@@ -21,7 +21,7 @@ Piensen en aspectos como:
 | Netflix | Distribuido | Usa múltiples servicios como streaming, recomendaciones y gestión de usuarios. |
 | Calculadora de Windows | Monolítico | Es una sola aplicación que funciona localmente sin depender de otros servicios. |
 
----
+
 
 ## Actividad 2: Formación de Equipos
 
@@ -58,7 +58,7 @@ El equipo debe registrarse con el docente indicando:
 - Integrantes
 - Roles asignados
 
----
+
 
 ## Actividad 3: Brainstorming del Proyecto
 
@@ -94,7 +94,7 @@ Dificultad para agendar citas médicas de manera rápida y organizada.
 - Citas agendadas
 - Estados de las citas
 
----
+
 
 ### Idea de Proyecto 2: Aplicación de Rutas Seguras
 
