@@ -157,7 +157,7 @@ Cada microservicio:
 # Diagrama de Arquitectura (Representación)
 ## Diagrama de Arquitectura del Sistema
 
-![Diagrama de Arquitectura](docs/Diagrama de Arquitectura.jpeg)
+![Diagrama de Arquitectura](doc/diagrams/Diagrama de Arquitectura.jpeg)
 
 
 ---
